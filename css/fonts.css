@@ -1,0 +1,29 @@
+/* @font-face {
+  font-family: 'Roboto';
+  src: url('fonts/Roboto-Regular.ttf') format('ttf'),
+    url('fonts/Roboto-Bold.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+
+} */
+
+@font-face {
+  font-family: 'Arial';
+  src: url('../fonts/ArialRegular.eot');
+  src: url('../fonts/ArialRegular.eot?iefix') format('eot'),
+    url('../fonts/ArialRegular.woff') format('woff'),
+    url('../fonts/ArialRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Cuprum';
+  src: url('../fonts/Cuprum-Regular.eot');
+  src: url('../fonts/Cuprum-Regular.eot?iefix') format('eot'),
+    url('../fonts/Cuprum-Regular.woff') format('woff'),
+    url('../fonts/Cuprum-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
